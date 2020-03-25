@@ -1,6 +1,4 @@
-English translation is processing on [english branch](https://github.com/labuladong/fucking-algorithm/tree/english)…… Gitbook will deploy as soon as possible. Star this repo and go back sonn：)
-
-没想到两天就火了，招募翻译组啦，有兴趣可查看这个置顶 [issue](https://github.com/labuladong/fucking-algorithm/issues/9)，成为本仓库的贡献者就是这么容易！
+English version repo and Gitbook is on [english branch](https://github.com/labuladong/fucking-algorithm/tree/english). Just enjoy：)
 
 # 前言
 
@@ -18,13 +16,14 @@ English translation is processing on [english branch](https://github.com/labulad
 
 1、**先给本仓库点个 star，满足一下我的虚荣心**，文章质量绝对值你一个 star。我还在继续创作，给我一点继续写文的动力，感谢。
 
-2、可以在我的 gitbook 上直接查看所有文章，会和公众号同步持续更新文章，建议收藏。地址：https://labuladong.gitbook.io/algo
+2、可以在我的 gitbook 上直接查看所有文章，会和公众号和 [我的知乎](https://www.zhihu.com/people/fdl-72) 同步持续更新文章，建议收藏。地址：https://labuladong.gitbook.io/algo
 
 3、可以关注我的公众号 **labuladong** 及时获取更新。我不喜欢转载乱七八糟的低质文章，**坚持高质量原创，说是最良心最硬核的技术公众号都不为过**。
 
-本仓库的文章就是从公众号里整理出来的一部分内容，目前主要发文平台是微信公众号，公众号后台回复关键词【电子书】可以获得这份小抄的电子书版本，方便你做笔记：
+本仓库的文章就是从公众号里整理出来的一部分内容，我主要发文平台是微信公众号，公众号后台回复关键词【电子书】可以获得这份小抄的电子书版本，方便你做笔记；回复【**加群**】可以加入我们的刷题群，和大家一起讨论算法问题，分享内推机会：
 
-<img src="./pictures/qrcode.jpg" width = "250" height = "250" alt="brutal" align=center />
+<img src="./pictures/qrcode.jpg" width = "200" align=center />
+
 
 其他的先不多说了，直接上干货吧，我们一起日穿 LeetCode，感受一下支配算法的乐趣。
 
@@ -128,9 +127,16 @@ git clone --depth 1 https://github.com/labuladong/fucking-algorithm.git
 
 [ABCpril](https://github.com/ABCpril), 
 [andavid](https://github.com/andavid), 
+[bryceustc](https://github.com/bryceustc), 
 [build2645](https://github.com/build2645), 
 [CarrieOn](https://github.com/CarrieOn), 
+[cooker](https://github.com/xiaochuhub), 
+[Dong Wang](https://github.com/Coder2Programmer), 
+[ExcaliburEX](https://github.com/ExcaliburEX), 
+[floatLig](https://github.com/floatLig), 
+[ForeverSolar](https://github.com/foreversolar), 
 [Fulin Li](https://fulinli.github.io/), 
+[Funnyyanne](https://github.com/Funnyyanne), 
 [GYHHAHA](https://github.com/GYHHAHA), 
 [Hi_archer](https://hiarcher.top/), 
 [Iruze](https://github.com/Iruze), 
@@ -139,10 +145,15 @@ git clone --depth 1 https://github.com/labuladong/fucking-algorithm.git
 [Kevin](https://github.com/Kevin-free), 
 [Lrc123](https://github.com/Lrc123), 
 [lriy](https://github.com/lriy), 
+[Lyjeeq](https://github.com/Lyjeeq), 
+[MasonShu](https://greenwichmt.github.io/), 
 [Master-cai](https://github.com/Master-cai), 
 [miaoxiaozui2017](https://github.com/miaoxiaozui2017), 
+[natsunoyoru97](https://github.com/natsunoyoru97), 
 [nettee](https://github.com/nettee), 
 [PaperJets](https://github.com/PaperJets), 
+[qy-yang](https://github.com/qy-yang), 
+[realism0331](https://github.com/realism0331), 
 [SCUhzs](https://github.com/HuangZiSheng001), 
 [Seaworth](https://github.com/Seaworth), 
 [shazi4399](https://github.com/shazi4399), 
@@ -151,18 +162,21 @@ git clone --depth 1 https://github.com/labuladong/fucking-algorithm.git
 [sunqiuming526](https://github.com/sunqiuming526), 
 [Tianhao Zhou](https://github.com/tianhaoz95), 
 [timmmGZ](https://github.com/timmmGZ), 
+[tommytim0515](https://github.com/tommytim0515), 
+[upbin](https://github.com/upbin), 
 [wadegrc](https://github.com/wadegrc), 
 [walsvid](https://github.com/walsvid), 
 [warmingkkk](https://github.com/warmingkkk), 
+[Wonderxie](https://github.com/Wonderxie), 
 [wsyzxxxx](https://github.com/wsyzxxxx), 
 [xiaodp](https://github.com/xiaodp), 
 [youyun](https://github.com/youyun), 
+[yx-tan](https://github.com/yx-tan), 
 [Zero](https://github.com/Mr2er0), 
 [Ziming](https://github.com/ML-ZimingMeng/LeetCode-Python3)
-
 
 # Donate
 
 如果本仓库对你有帮助，可以请作者喝杯速溶咖啡
 
-<img src="pictures/pay.jpg" width = "216" height = "300" alt="brutal" align=center />
+<img src="pictures/pay.jpg" width = "216" align=center />
